@@ -1,0 +1,27 @@
+body{
+    background-image: url("img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+h1 {
+    font-family: Fantasy;
+}
+
+img {
+height: 700px;
+    }
+
+.container {
+    margin: 30px;
+    position: relative;
+    
+}
+
+.footer {
+    text-align: center;
+}
+
+

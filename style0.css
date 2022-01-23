@@ -1,0 +1,23 @@
+h1 {
+  color: darkmagenta;
+  text-align: center;
+}
+
+div {
+  font-family: Arial;
+}
+div p {
+  color: #0F115B;
+}
+
+.nav-item {
+  font-family: Calibri;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-item {
+  background-color: grey;
+}
+
+/*# sourceMappingURL=style0.css.map */

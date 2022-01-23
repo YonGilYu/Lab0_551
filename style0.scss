@@ -1,0 +1,28 @@
+$color:darkmagenta;
+$align: center;
+$color1: #0F115B;
+$fontarial: Arial;
+
+h1 {
+    color: $color;
+    text-align: $align;
+}
+
+div{
+    font-family:$fontarial;
+    p{
+        color:$color1;
+    }
+}
+
+
+%navbar-nav{
+    font-family:Calibri;
+    font-size: 24px;
+    font-weight:bold;
+}
+
+.nav-item{
+    @extend %navbar-nav;
+    background-color:grey;
+}
